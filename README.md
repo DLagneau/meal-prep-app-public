@@ -1,4 +1,7 @@
 ### App disponible en EN/FR
+#### Logo
+<img src="screenshots/logo.PNG" width="300">
+
 </br>
 
 # Description
